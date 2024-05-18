@@ -3,7 +3,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LAZENGANNN)](https://git.io/streak-stats)
 
-**<img src= "https://github.com/LAZENGANNN/LAZENGANNN/blob/main/maxwell.png?raw=true" alt="альтернативный текст">
+<img src= "https://github.com/LAZENGANNN/LAZENGANNN/blob/main/maxwell.png?raw=true" alt="maxwell">
 
 
 
