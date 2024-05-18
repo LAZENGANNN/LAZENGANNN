@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2>единственный и неповторимый LAZENGANNN</h2>
+<h2 font-weight = 'bolder'>единственный и неповторимый магистр JS разработки </h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LAZENGANNN)](https://git.io/streak-stats)
 
