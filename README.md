@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h2 font-weight = 'bolder'>единственный и неповторимый магистр JS разработки </h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LAZENGANNN)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LAZENGANNN)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src= "https://github.com/LAZENGANNN/LAZENGANNN/blob/main/maxwell.png?raw=true"  alt="maxwell">
 
