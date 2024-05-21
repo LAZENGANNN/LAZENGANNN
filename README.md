@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2 font-weight = 'bolder'>единственный и неповторимый магистр JS разработки </h2>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LAZENGANNN)
 
