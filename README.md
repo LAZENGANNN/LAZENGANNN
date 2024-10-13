@@ -1,9 +1,4 @@
 ### Hi there 👋
-
-<img src= "https://github.com/LAZENGANNN/LAZENGANNN/blob/main/maxwell.png?raw=true"  alt="maxwell">
-
-
-
 <img src="https://media1.tenor.com/m/Jojpr9QgMLoAAAAd/maxwell-maxwell-spin.gif" alt="maxwell2">
 
 
